@@ -1,17 +1,16 @@
-python>=3.10, <4.0
-langchain>=0.1.0
-openai>=1.6.1
-duckduckgo-search>4.0
-pypdf>=3.12.2, <4.0  # Assuming ^3.12.2 implies compatibility with the 3.x series
-sentence-transformers>=2.2.2, <3.0  # Assuming ^2.2.2 implies compatibility with the 2.x series
-torch>=2.0.0, !=2.0.1
-tabulate>=0.9.0, <1.0  # Assuming ^0.9.0 implies compatibility with the 0.9.x series
-streamlit-feedback>=0.0.9, <0.1.0  # Assuming ^0.0.9 implies compatibility with the 0.0.x series
-langchain-experimental>=0.0.49, <0.1.0  # Assuming ^0.0.49 implies compatibility with the 0.0.x series
-streamlit>=1.26
-docarray>=0.38.0, <0.39.0  # Assuming ^0.38.0 implies compatibility with the 0.38.x series
-hnswlib>=0.7.0, <0.8.0  # Assuming ^0.7.0 implies compatibility with the 0.7.x series
-langchain-community>=0.0.12, <0.1.0  # Assuming ^0.0.12 implies compatibility with the 0.0.x series
-langchain-openai>=0.0.2.post1, <0.1.0  # Assuming ^0.0.2.post1 implies compatibility with the 0.0.x series
-numexpr>=2.8.8, <2.9.0  # Assuming ^2.8.8 implies compatibility with the 2.8.x series
-langchainhub>=0.1.14, <0.2.0  # Assuming ^0.1.14 implies compatibility with the 0.1.x series
+langchain
+openai
+duckduckgo-search
+pypdf
+sentence-transformers
+torch
+tabulate
+streamlit-feedback
+langchain-experimental
+streamlit
+docarray
+hnswlib
+langchain-community
+langchain-openai
+numexpr
+langchainhub
