@@ -1,0 +1,8 @@
+langchain
+openai
+streamlit
+pypdf2
+transformers
+docarray
+torch
+sentence-transformers
