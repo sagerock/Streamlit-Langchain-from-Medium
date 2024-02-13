@@ -1,7 +1,7 @@
 langchain
 openai
 streamlit
-pypdf2
+pypdf
 transformers
 docarray
 torch
