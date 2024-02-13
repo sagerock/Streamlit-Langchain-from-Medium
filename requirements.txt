@@ -6,3 +6,4 @@ transformers
 docarray
 torch
 sentence-transformers
+langchain-community
